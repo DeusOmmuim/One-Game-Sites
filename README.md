@@ -6,5 +6,8 @@ https://deus-scissuras.github.io/cookieclicker/
 
 https://deus-scissuras.github.io/retro--bowl/
 
+## Slope
+
+https://goldenn.dev/Slope-Game/
 
 The End (Beta)
